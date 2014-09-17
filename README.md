@@ -7,3 +7,5 @@ download the article of cnbeta in first page
 ————————
 为什么是cnbeta？
 以为cnbeta基本不会拒绝你的请求，所以很适合练习。别的网站可能会因为你连续多次的请求而返回404.
+
+说明：http://blog.csdn.net/gt11799/article/details/39349359
